@@ -6,6 +6,8 @@
 
 [![R-CMD-check](https://github.com/bonifazi/testpkg3/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/bonifazi/testpkg3/actions/workflows/R-CMD-check.yaml)
 
+[![codecov](https://codecov.io/gh/bonifazi/testpkg3/graph/badge.svg?token=5V4403JH0Y)](https://codecov.io/gh/bonifazi/testpkg3)
+
 <!-- badges: end -->
 
 The goal of testpkg3 is to ...

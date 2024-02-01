@@ -13,5 +13,6 @@ URL: https://github.com/bonifazi/testpkg3
 BugReports: https://github.com/bonifazi/testpkg3/issues
 Imports: 
     covr,
+    gh,
     testthat
 Config/testthat/edition: 3

@@ -1,4 +1,3 @@
-
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # testpkg3
@@ -9,12 +8,11 @@
 
 <!-- badges: end -->
 
-The goal of testpkg3 is to …
+The goal of testpkg3 is to ...
 
 ## Installation
 
-You can install the development version of testpkg3 from
-[GitHub](https://github.com/) with:
+You can install the development version of testpkg3 from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
@@ -30,8 +28,7 @@ library(testpkg3)
 ## basic example code
 ```
 
-What is special about using `README.Rmd` instead of just `README.md`?
-You can include R chunks like so:
+What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
 
 ``` r
 summary(cars)
@@ -44,12 +41,10 @@ summary(cars)
 #>  Max.   :25.0   Max.   :120.00
 ```
 
-You’ll still need to render `README.Rmd` regularly, to keep `README.md`
-up-to-date. `devtools::build_readme()` is handy for this.
+You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date. `devtools::build_readme()` is handy for this.
 
 You can also embed plots, for example:
 
-<img src="man/figures/README-pressure-1.png" width="100%" />
+<img src="man/figures/README-pressure-1.png" width="100%"/>
 
-In that case, don’t forget to commit and push the resulting figure
-files, so they display on GitHub and CRAN.
+In that case, don't forget to commit and push the resulting figure files, so they display on GitHub and CRAN.
